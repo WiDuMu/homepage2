@@ -1,5 +1,6 @@
 ---
 title: About Me
+author: WiDuMu
 description: A personal landing page
 ---
    # Hello
