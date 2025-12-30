@@ -1,0 +1,9 @@
+---
+title: About Me
+---
+   # Hello
+   I'm a computer science student in Minnesota.
+
+   # Some things I've done!
+   * A QR Code Generator that needs work on the CSS. [link](https://widumu.github.io/QR/)
+   * A domain hack finder [link](https://github.com/WiDuMu/domain-hack-finder)

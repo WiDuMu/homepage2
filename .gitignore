@@ -8,6 +8,10 @@ node_modules
 /.svelte-kit
 /build
 
+# VSCode
+.vscode
+.vscode/settings.json
+
 # OS
 .DS_Store
 Thumbs.db
